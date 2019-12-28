@@ -1,0 +1,19 @@
+{
+  "name": "treez",
+  "version": "0.0.1",
+  "description": "Take-home interview problem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartekus/treez.git"
+  },
+  "author": "Bartek Kus <bartekus@gmail.com> (https://bartekus.com/)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/bartekus/treez/issues"
+  },
+  "homepage": "https://github.com/bartekus/treez#readme"
+}
